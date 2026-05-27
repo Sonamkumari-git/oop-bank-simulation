@@ -5,7 +5,7 @@ import time
 import os
 
 # Cloud (Render) par API_URL set karenge, nahi toh local 8000 use karega
-BASE_URL = os.getenv("API_URL", "https://oop-bank-simulation.onrender.com")
+BASE_URL = "https://oop-bank-simulation.onrender.com"
 
 st.set_page_config(page_title="Apex Secure Internet Banking", page_icon="🏦", layout="wide")
 
