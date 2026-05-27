@@ -1,2 +1,8 @@
 supabase
 python-dotenv
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+pydantic
