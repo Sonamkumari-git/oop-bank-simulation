@@ -493,4 +493,4 @@ This project demonstrates:
 
 **Last Updated**: July 2026  
 **Version**: 1.0.0  
-**Maintainer**: Sonam Kumar
+**Maintainer**: Sonam Kumari
